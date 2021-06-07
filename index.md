@@ -23,5 +23,36 @@ The management of patients with complex disease such as cancer is very much a te
 - Nov 20, 2021: Camera-ready of accepted papers
 - Dec 15-18, 2021: Workshops
 
+## Submission Instructions
+
+Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, up to 10 pages IEEE 2-column format, including tables, figures, references and appendixes, should be submitted via the [conference workshop online submission system](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=S34&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php). We also encourage the submission of short papers (4-6 pages IEEE 2-column format), or abstract papers (up to 4 page IEEE 2-column format). Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (more instructions and templates can be downloaded from the conference website). All accepted papers will be included in the conference proceedings and published by the IEEE Xplore Digital Library (covered by the Engineering Index).
+
+# Formatting Instructions
+
+8.5" x 11" (DOC, PDF)
+[LaTex Formatting Macros](http://bigdataieee.org/BigData2021/files/Conference-LaTeX-template_7-9-18.zip)
+
+## Program Chairs
+
+Prof. Wendong Wang, International School, Beijing University of Posts and Telecommunications, Beijing, China
+
+## Technical Program Committee
+
+Prof. Zhineng Chen, School of Computer Science, Fudan University, Shanghai, China
+
+Dr. Bo Zhang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
+
+Dr. Wu Liu, JD AI Research, Beijing, China
+
+Dr. Zhenxiang Gao, Center for Artificial Intelligence in Drug Discovery, Case Western Reserve University, Ohio, USA
+
+Dr. Zheng Song, Department of Computer and Information Science, University of Michigan-Dearborn, Michigan, USA
+
+Dr. Zheng Zhang, School of Modern Post, Beijing University of Posts and Telecommunications, Beijing, China
+
+Dr. Lingjun Zhang, School of Computer Science and Technology, Hangzhou Danzi University, Hangzhou, China
+
+Dr. Hui Gao, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
+
 ## For PC Member
 [PC Member Page](https://wi-lab.com/cyberchair/2021/bigdata21/pcmb/pc_index.php?subarea=S34)
