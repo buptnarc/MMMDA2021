@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Important URL
+[Paper Submission](https://wi-lab.com/cyberchair/2021/bigdata21/scripts/submit.php?subarea=S34&undisplay_detail=1&wh=/cyberchair/2021/bigdata21/scripts/ws_submit.php)
 
-You can use the [editor on GitHub](https://github.com/buptnarc/MMMDA2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[IEEE BigData 2021](http://bigdataieee.org/BigData2021/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About MMMDA 2021
 
-### Markdown
+The management of patients with complex disease such as cancer is very much a team approach, and each case is discussed in confidence within a multidisciplinary team (MDT). Moreover, the results of medical examinations are also extremely complicated. For example, there are multiple sequences of Magnetic Resonance Imaging (MRI). Different image sequences have different values for disease diagnosis. Thus, multi-modal medical data analysis is very important for disease diagnosis. With the development of deep learning and multi-modal data analysis techniques, researchers have strived to push the limits of human-centric data analysis in a wide variety of applications, such as organ or lesion segmentation in medical images, disease data analysis, etc. This workshop will present recent advances under the umbrella of multi-modal medical data analysis, which range from the fundamental problems of organ and lesion segmentation, which range from the fundamental problems of medical image processing (MRI, CT, Ultrasound, etc.), medical signal data analysis, Medical AI applications. They are all important research topics in medical big data. We will discuss the key problems, common formulations, existing methodologies, real industrial applications, and future directions in the above topics. Our workshop views not only come from the research field but also combine the real-world requirements and experiences in the industrial community. Therefore, this workshop will inspire the audiences from both academia and industry, and facilitate research in multi-modal medical data for medical big data analysis modeling.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research topics
 
-```markdown
-Syntax highlighted code block
+- Medical imaging-based analysis using deep learning
+- Medical signal-based analysis using deep learning
+- Medical image reconstruction using deep learning
+- Deep learning-based medical imaging applications
+- Image description by means of deep learning techniques
+- Deep learning model selection in medical imaging
 
-# Header 1
-## Header 2
-### Header 3
+## Important dates
 
-- Bulleted
-- List
+- Oct 1, 2021: Due date for full workshop papers submission
+- Nov 1, 2021: Notification of paper acceptance to authors
+- Nov 20, 2021: Camera-ready of accepted papers
+- Dec 15-18, 2021: Workshops
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buptnarc/MMMDA2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
