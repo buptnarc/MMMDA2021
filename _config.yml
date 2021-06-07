@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: "Multi-Modal Medical Data Analysis 2021"
+description: "IEEE International Conference on Big Data 2021"
+github:
+  is_project_page: false
