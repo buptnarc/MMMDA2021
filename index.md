@@ -18,7 +18,7 @@ The management of patients with complex disease such as cancer is very much a te
 
 ## Important dates
 
-- Oct 1, 2021: Due date for full workshop papers submission
+- Oct 24, 2021 (extended): Due date for full workshop papers submission
 - Nov 1, 2021: Notification of paper acceptance to authors
 - Nov 20, 2021: Camera-ready of accepted papers
 - Dec 15-18, 2021: Workshops
