@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multi-Modal Medical Data Analysis (MMMDA)
+title: Multi-Modal Medical Data Analysis
 description: IEEE BigData Workshop
 ---
 
