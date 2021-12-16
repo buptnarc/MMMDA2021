@@ -4,11 +4,11 @@ title: Multi-Modal Medical Data Analysis
 description: IEEE BigData Workshop
 ---
 
-## About MMMDA
+# About MMMDA
 
 The management of patients with complex disease such as cancer is very much a team approach, and each case is discussed in confidence within a multidisciplinary team (MDT). Moreover, the results of medical examinations are also extremely complicated. For example, there are multiple sequences of Magnetic Resonance Imaging (MRI). Different image sequences have different values for disease diagnosis. Thus, multi-modal medical data analysis is very important for disease diagnosis. With the development of deep learning and multi-modal data analysis techniques, researchers have strived to push the limits of human-centric data analysis in a wide variety of applications, such as organ or lesion segmentation in medical images, disease data analysis, etc. This workshop will present recent advances under the umbrella of multi-modal medical data analysis, which range from the fundamental problems of organ and lesion segmentation, which range from the fundamental problems of medical image processing (MRI, CT, Ultrasound, etc.), medical signal data analysis, Medical AI applications. They are all important research topics in medical big data. We will discuss the key problems, common formulations, existing methodologies, real industrial applications, and future directions in the above topics. Our workshop views not only come from the research field but also combine the real-world requirements and experiences in the industrial community. Therefore, this workshop will inspire the audiences from both academia and industry, and facilitate research in multi-modal medical data for medical big data analysis modeling.
 
-## Research topics
+# Research topics
 
 - Medical imaging-based analysis using deep learning
 - Medical signal-based analysis using deep learning
@@ -16,6 +16,8 @@ The management of patients with complex disease such as cancer is very much a te
 - Deep learning-based medical imaging applications
 - Image description by means of deep learning techniques
 - Deep learning model selection in medical imaging
+
+# Committee Members
 
 ## Program Chair
 
@@ -41,6 +43,6 @@ Dr. Lingjun Zhang, School of Computer Science and Technology, Hangzhou Danzi Uni
 
 Dr. Hui Gao, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
-## Previous information
+# Previous information
 
 [MMMDA 2021](https://mmmda.bupt.cc/2021.html)
