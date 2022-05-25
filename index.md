@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The 2nd International Workshop on Multi-Modal Medical Data Analysis
-description: IEEE BigData Workshop
+description: IEEE International Conference on Big Data
 ---
 
 # About MMMDA
