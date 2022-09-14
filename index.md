@@ -41,11 +41,11 @@ Submitted papers must not substantially overlap with papers that have been publi
 
 # Committee Members
 
-## Program Chair
+## General Chair
 
 Prof. Wendong Wang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
-## Session Chair
+## Program Chair
 
 Dr. Bo Zhang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
