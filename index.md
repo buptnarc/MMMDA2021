@@ -8,7 +8,7 @@ description: IEEE International Conference on Big Data
 
 The management of patients with complex disease such as cancer usually requires a multidisciplinary team approach, and each case is often discussed within a multidisciplinary team (MDT). Moreover, the results of medical examinations are also extremely complicated. For example, there are multiple sequences of Magnetic Resonance Imaging (MRI). Different image sequences have unique values for disease diagnosis. Thus, multi-modal medical data analysis is critically important for disease diagnosis. With the development of deep learning and multi-modal data analysis techniques, researchers focus on a wide variety of deep learning -based applications in medicine, such as organ or lesion segmentation in medical images, disease data analysis, etc. This workshop will present recent advances under the umbrella of multi-modal medical data analysis, including medical image processing (e.g., organ and lesion segmentation for MRI, CT, or Ultrasound images), medical text data mining, etc. They are all research hotspots and future direction in the artificial intelligence-assisted diagnosis. We will discuss the key problems, common formulations, existing methodologies, real industrial applications, and future directions in the above topics. Our workshop views not only come from the research field but also combine the real-world requirements and experiences in the industrial community. Therefore, this workshop will inspire audiences from both academia and industry and facilitate research in multi-modal medical data for medical big data analysis modeling.
 
-# Research topics
+# Research Topics
 
 - Medical image enhancement, registration, segmentation, detection, and generation
 - Medical text data processing, analysis, evaluation, and interpretation
@@ -24,7 +24,7 @@ The management of patients with complex disease such as cancer usually requires 
 
 [PC Member Login](https://wi-lab.com/cyberchair/2022/bigdata22/pcmb/pc_index.php?subarea=S10)
 
-# Important dates
+# Important Dates
 
 - Oct 31, 2022 (extended): Due date for full workshop papers submission
 - Nov 10, 2022 (extended): Notification of paper acceptance to authors
