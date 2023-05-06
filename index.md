@@ -1,43 +1,45 @@
 ---
 layout: default
-title: The 2nd International Workshop on Multi-Modal Medical Data Analysis
-description: IEEE International Conference on Big Data
+title: The 3rd International Workshop on Multi-Modal Medical Data Analysis
+description: IEEE International Conference on Big Data - December 15, 2023, Sorrento, Italy
 ---
 
 # About MMMDA
 
-The management of patients with complex disease such as cancer usually requires a multidisciplinary team approach, and each case is often discussed within a multidisciplinary team (MDT). Moreover, the results of medical examinations are also extremely complicated. For example, there are multiple sequences of Magnetic Resonance Imaging (MRI). Different image sequences have unique values for disease diagnosis. Thus, multi-modal medical data analysis is critically important for disease diagnosis. With the development of deep learning and multi-modal data analysis techniques, researchers focus on a wide variety of deep learning -based applications in medicine, such as organ or lesion segmentation in medical images, disease data analysis, etc. This workshop will present recent advances under the umbrella of multi-modal medical data analysis, including medical image processing (e.g., organ and lesion segmentation for MRI, CT, or Ultrasound images), medical text data mining, etc. They are all research hotspots and future direction in the artificial intelligence-assisted diagnosis. We will discuss the key problems, common formulations, existing methodologies, real industrial applications, and future directions in the above topics. Our workshop views not only come from the research field but also combine the real-world requirements and experiences in the industrial community. Therefore, this workshop will inspire audiences from both academia and industry and facilitate research in multi-modal medical data for medical big data analysis modeling.
+The management of patients with complex diseases, such as cancer, typically requires a multidisciplinary team approach, with each case discussed within a multidisciplinary team (MDT). Medical examinations often produce highly complex results, with multiple sequences of Magnetic Resonance Imaging (MRI) providing unique values for disease diagnosis. Therefore, multi-modal medical data analysis is crucial for accurate diagnosis. With the advancements in deep learning and multi-modal data analysis techniques, researchers are exploring a wide range of deep learning-based applications in medicine, including organ or lesion segmentation in medical images, disease data analysis, and more. This workshop will showcase recent advances in multi-modal medical data analysis, such as medical image processing (e.g., organ and lesion segmentation for MRI or CT), and medical text data mining. Furthermore, ideas, algorithms, and models originating from medical data are gradually being applied to other fields and have achieved positive results, such as the successful application of U-Net to scenarios like key point detection of industrial equipment. During the workshop, we will discuss key problems, common formulations, existing methodologies, real industrial applications, and future directions in these topics. Our workshop perspective combines the latest research findings with real-world requirements and experiences from the industrial community. Therefore, this workshop will inspire and benefit audiences from both academia and industry and facilitate research in multi-modal medical data for medical big data analysis modeling and extended applications.
 
 # Research Topics
 
+- Medical related multi-modal data processing, analysis, and evaluation
 - Medical image enhancement, registration, segmentation, detection, and generation
 - Medical text data processing, analysis, evaluation, and interpretation
-- Artificial intelligence applications in medicine
+- Artificial intelligence applications in medicine, health care, sports, industry, etc.
 
 # Important URL
 
-[IEEE BigData 2022](http://bigdataieee.org/BigData2022/)
+[IEEE BigData 2023](http://bigdataieee.org/BigData2023/)
 
-[Paper Submission](https://wi-lab.com/cyberchair/2022/bigdata22/scripts/submit.php?subarea=S10&undisplay_detail=1&wh=/cyberchair/2022/bigdata22/scripts/ws_submit.php)
+[Paper Submission](https://wi-lab.com/cyberchair/2023/bigdata23/scripts/submit.php?subarea=S07&undisplay_detail=1&wh=/cyberchair/2023/bigdata23/scripts/ws_submit.php)
 
-[Program Schedule](http://bigdataieee.org/BigData2022/Main_program_tentative.pdf)
+[Program Schedule](http://bigdataieee.org/BigData2023/)
 
-[PC Member Login](https://wi-lab.com/cyberchair/2022/bigdata22/pcmb/pc_index.php?subarea=S10)
+[PC Member Login](https://wi-lab.com/cyberchair/2023/bigdata23/pcmb/pc_index.php?subarea=S07)
 
 # Important Dates
 
-- Oct 31, 2022 (extended): Due date for full workshop papers submission
-- Nov 10, 2022 (extended): Notification of paper acceptance to authors
-- Nov 20, 2022 (extended): Camera-ready of accepted papers
-- Dec 17-20, 2022 (9am EST): Workshop
+- Oct 1, 2023 Due date for full workshop papers submission
+- Nov 1, 2023: Notification of paper acceptance to authors
+- Nov 22, 2023: Camera-ready of accepted papers
+- Dec 15-18, 2023: Workshop
 
 # Submission Instructions
 
-Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, up to 10 pages IEEE 2-column format, including tables, figures, references and appendixes, should be submitted via the [conference workshop online submission system](https://wi-lab.com/cyberchair/2022/bigdata22/scripts/submit.php?subarea=S10&undisplay_detail=1&wh=/cyberchair/2022/bigdata22/scripts/ws_submit.php). We also encourage the submission of short papers (4-6 pages IEEE 2-column format), or abstract papers (up to 4 page IEEE 2-column format). Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (more instructions and templates can be downloaded from the conference website). All accepted papers will be included in the conference proceedings and published by the IEEE Xplore Digital Library (covered by the Engineering Index).
+Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, up to 10 pages IEEE 2-column format, including tables, figures, references and appendixes, should be submitted via the [conference workshop online submission system](https://wi-lab.com/cyberchair/2023/bigdata23/scripts/submit.php?subarea=S07&undisplay_detail=1&wh=/cyberchair/2023/bigdata23/scripts/ws_submit.php). We also encourage the submission of short papers (4-6 pages IEEE 2-column format), or abstract papers (up to 4 page IEEE 2-column format). Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (more instructions and templates can be downloaded from the conference website). All accepted papers will be included in the conference proceedings and published by the IEEE Xplore Digital Library (covered by the Engineering Index).
 
 ## Formatting Instructions
 
 [IEEE Computer Society Proceedings Manuscript Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html)
+
 
 # Committee Members
 
@@ -47,26 +49,36 @@ Prof. Wendong Wang, School of Computer Science, Beijing University of Posts and 
 
 ## Program Chair
 
-Dr. Bo Zhang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
+Prof. Bo Zhang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
-## Technical Program Committee
+Prof. Ji Wu, Department of Electronic Engineering, Tsinghua University, Beijing, China
 
-Prof. Xiuzhuang Zhou, School of Artificial Intelligence, Beijing University of Posts and Telecommunications, Beijing, China.
+Prof. Xiangling Fu, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
-Prof. Zhineng Chen, School of Computer Science, Fudan University, Shanghai, China
+Prof. Nanfang Xu, Peking University Health Science Center, Beijing, China
 
-Dr. Wu Liu, JD AI Research, Beijing, China
+Prof. Zheng Song, Department of Computer and Information Science, University of Michigan-Dearborn, Michigan, USA
 
 Dr. Zhenxiang Gao, Center for Artificial Intelligence in Drug Discovery, Case Western Reserve University, Ohio, USA
 
-Dr. Zheng Song, Department of Computer and Information Science, University of Michigan-Dearborn, Michigan, USA
+
+## Technical Program Committee
+
+Prof. Xiuzhuang Zhou, School of Artificial Intelligence, Beijing University of Posts and Telecommunications, Beijing, China
 
 Dr. Zheng Zhang, School of Modern Post, Beijing University of Posts and Telecommunications, Beijing, China
 
-Dr. Lingjun Zhang, School of Computer Science and Technology, Hangzhou Danzi University, Hangzhou, China
+Prof. Hui Gao, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
-Dr. Hui Gao, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
+Dr. Yue Mi, Urology Department, Peking University First Hospital, Beijing, China
+
+Dr. Jingyun Wu, Medical Imaging Department, Peking University First Hospital, Beijing, China
+
+Dr. Haiwen Huang, Urology Department, Peking University First Hospital, Beijing, China
+
+Dr. Wu Liu, JD AI Research, Beijing, China
+
 
 # Previous information
 
-[MMMDA 2021](https://mmmda.bupt.cc/2021.html)
+[MMMDA 2022](https://mmmda.bupt.cc/2022.html) | [MMMDA 2021](https://mmmda.bupt.cc/2021.html)
