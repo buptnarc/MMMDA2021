@@ -61,12 +61,12 @@ Prof. Zheng Song, Department of Computer and Information Science, University of 
 
 Dr. Zhenxiang Gao, Center for Artificial Intelligence in Drug Discovery, Case Western Reserve University, Ohio, USA
 
+Dr. Zheng Zhang, School of Modern Post, Beijing University of Posts and Telecommunications, Beijing, China
+
 
 ## Technical Program Committee
 
 Prof. Xiuzhuang Zhou, School of Artificial Intelligence, Beijing University of Posts and Telecommunications, Beijing, China
-
-Dr. Zheng Zhang, School of Modern Post, Beijing University of Posts and Telecommunications, Beijing, China
 
 Prof. Hui Gao, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
