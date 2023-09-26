@@ -27,9 +27,9 @@ The management of patients with complex diseases, such as cancer, typically requ
 
 # Important Dates
 
-- Oct 1, 2023 Due date for full workshop papers submission
-- Nov 1, 2023: Notification of paper acceptance to authors
-- Nov 22, 2023: Camera-ready of accepted papers
+- Oct 31, 2023 Due date for full workshop papers submission
+- Nov 12, 2023: Notification of paper acceptance to authors
+- Nov 17, 2023: Camera-ready of accepted papers
 - Dec 15-18, 2023: Workshop
 
 # Submission Instructions
