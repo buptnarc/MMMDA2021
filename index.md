@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The 3rd International Workshop on Multi-Modal Medical Data Analysis
-description: IEEE International Conference on Big Data - December 15, 2023, Sorrento, Italy
+title: The 4th International Workshop on Multi-Modal Medical Data Analysis
+description: IEEE International Conference on Big Data - December 15, 2023, Washington DC, USA
 ---
 
 # About MMMDA
@@ -17,24 +17,24 @@ The management of patients with complex diseases, such as cancer, typically requ
 
 # Important URL
 
-[IEEE BigData 2023](http://bigdataieee.org/BigData2023/)
+[IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)
 
-[Paper Submission](https://wi-lab.com/cyberchair/2023/bigdata23/scripts/submit.php?subarea=S07&undisplay_detail=1&wh=/cyberchair/2023/bigdata23/scripts/ws_submit.php)
+[Paper Submission](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php)
 
-[Program Schedule](http://bigdataieee.org/BigData2023/)
+[Program Schedule](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)
 
-[PC Member Login](https://wi-lab.com/cyberchair/2023/bigdata23/pcmb/pc_index.php?subarea=S07)
+[PC Member Login](https://wi-lab.com/cyberchair/2024/bigdata24/pcmb/pc_index.php?subarea=S15)
 
 # Important Dates
 
-- Oct 31, 2023 (extended): Due date for full workshop papers submission
-- Nov 12, 2023 (extended): Notification of paper acceptance to authors
-- Nov 17, 2023 (extended): Camera-ready of accepted papers
-- Dec 15-18, 2023: Workshop
+- Oct 15, 2024: Due date for full workshop papers submission
+- Nov 1, 2024: Notification of paper acceptance to authors
+- Nov 10, 2024: Camera-ready of accepted papers
+- Dec 15-18, 2024: Workshop
 
 # Submission Instructions
 
-Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, up to 10 pages IEEE 2-column format, including tables, figures, references and appendixes, should be submitted via the [conference workshop online submission system](https://wi-lab.com/cyberchair/2023/bigdata23/scripts/submit.php?subarea=S07&undisplay_detail=1&wh=/cyberchair/2023/bigdata23/scripts/ws_submit.php). We also encourage the submission of short papers (4-6 pages IEEE 2-column format), or abstract papers (up to 4 page IEEE 2-column format). Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (more instructions and templates can be downloaded from the conference website). All accepted papers will be included in the conference proceedings and published by the IEEE Xplore Digital Library (covered by the Engineering Index).
+Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, up to 10 pages IEEE 2-column format, including tables, figures, references and appendixes, should be submitted via the [conference workshop online submission system](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php). We also encourage the submission of short papers (4-6 pages IEEE 2-column format), or abstract papers (up to 4 page IEEE 2-column format). Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (more instructions and templates can be downloaded from the conference website). All accepted papers will be included in the conference proceedings and published by the IEEE Xplore Digital Library (covered by the Engineering Index).
 
 ## Formatting Instructions
 
@@ -51,34 +51,24 @@ Prof. Wendong Wang, School of Computer Science, Beijing University of Posts and 
 
 Prof. Bo Zhang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
+Prof. Nanfang Xu, Peking University Health Science Center, Beijing, China
+
 Prof. Ji Wu, Department of Electronic Engineering, Tsinghua University, Beijing, China
 
 Prof. Xiangling Fu, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
-
-Prof. Nanfang Xu, Peking University Health Science Center, Beijing, China
-
-Prof. Zheng Song, Department of Computer and Information Science, University of Michigan-Dearborn, Michigan, USA
-
-Dr. Zhenxiang Gao, Center for Artificial Intelligence in Drug Discovery, Case Western Reserve University, Ohio, USA
-
-Dr. Zheng Zhang, School of Modern Post, Beijing University of Posts and Telecommunications, Beijing, China
 
 
 ## Technical Program Committee
 
 Prof. Xiuzhuang Zhou, School of Artificial Intelligence, Beijing University of Posts and Telecommunications, Beijing, China
 
+Dr. Zheng Zhang, School of Modern Post, Beijing University of Posts and Telecommunications, Beijing, China
+
 Prof. Hui Gao, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
-
-Dr. Yue Mi, Urology Department, Peking University First Hospital, Beijing, China
-
-Dr. Jingyun Wu, Medical Imaging Department, Peking University First Hospital, Beijing, China
-
-Dr. Haiwen Huang, Urology Department, Peking University First Hospital, Beijing, China
 
 Dr. Wu Liu, JD AI Research, Beijing, China
 
 
 # Previous information
 
-[MMMDA 2022](https://mmmda.bupt.cc/2022.html) | [MMMDA 2021](https://mmmda.bupt.cc/2021.html)
+[MMMDA 2023](https://mmmda.bupt.cc/2023.html) |[MMMDA 2022](https://mmmda.bupt.cc/2022.html) | [MMMDA 2021](https://mmmda.bupt.cc/2021.html)
