@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The 4th International Workshop on Multi-Modal Medical Data Analysis
-description: IEEE International Conference on Big Data - December 15, 2023, Washington DC, USA
+description: IEEE International Conference on Big Data - December 15-18, 2024, Washington DC, USA
 ---
 
 # About MMMDA
