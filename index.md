@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The 4th International Workshop on Multi-Modal Medical Data Analysis
-description: IEEE International Conference on Big Data - December 15-18, 2024, Washington DC, USA
+description: IEEE International Conference on Big Data - December 15, 2024, Washington DC, USA
 ---
 
 # About MMMDA
@@ -51,9 +51,9 @@ Prof. Wendong Wang, School of Computer Science, Beijing University of Posts and 
 
 Prof. Bo Zhang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
-Prof. Zhen Cui, Beijing University of Posts and Telecommunications Hospital, Beijing, China
-
 Prof. Nanfang Xu, Peking University Health Science Center, Beijing, China
+
+Dr. Zhen Cui, Beijing University of Posts and Telecommunications Hospital, Beijing, China
 
 Prof. Ji Wu, Department of Electronic Engineering, Tsinghua University, Beijing, China
 
