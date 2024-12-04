@@ -30,7 +30,7 @@ The management of patients with complex diseases, such as cancer, typically requ
 - Oct 31, 2024 (extended): Due date for full workshop papers submission
 - Nov 5, 2024 (extended): Notification of paper acceptance to authors
 - Nov 10, 2024: Camera-ready of accepted papers
-- Dec 15-18, 2024: Workshop
+- Dec 15, 2024: Workshop
 
 # Submission Instructions
 
@@ -50,6 +50,8 @@ Prof. Wendong Wang, School of Computer Science, Beijing University of Posts and 
 ## Program Chair
 
 Prof. Bo Zhang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
+
+Prof. Zhen Cui, Beijing University of Posts and Telecommunications Hospital, Beijing, China
 
 Prof. Nanfang Xu, Peking University Health Science Center, Beijing, China
 
